@@ -1,3 +1,5 @@
+//Is the program to control the eyes of the robot using a set of servo motor 
+
 //Eye test
 #include <Servo.h>
 Servo lid1;
