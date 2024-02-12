@@ -1,3 +1,4 @@
+//Is the program to test the control of the speaking of the robot using a APRA33 audio amplifier module with Arduino uno board and coordination with the Android app
 
 #define spk1  5
 #define spk2  6
