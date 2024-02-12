@@ -1,3 +1,5 @@
+//Is the program to test the control of the arms of the robot using a servo motor and coordination with the Android app
+
 #include <Servo.h>
 
 Servo arm1;  // create servo object to control a servo
