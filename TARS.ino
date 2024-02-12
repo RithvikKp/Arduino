@@ -1,3 +1,5 @@
+//Is the final program of the humanoid robot "TARS". It is the combination of the movement, arms and audio codes
+
 //Libraries
 #include <AFMotor.h>
 #include <Servo.h>
