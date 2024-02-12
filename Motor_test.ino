@@ -1,3 +1,5 @@
+//Is the program to test the control of the movements of the robot using 4 metal geared motors with L293D motor driver module as well as the Aruino L293D motor shield and coordination with the Android app
+
 //motor test
 #include <AFMotor.h>
 int enA = 3;
